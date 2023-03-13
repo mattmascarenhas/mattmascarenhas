@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg">
-    <img align="center" alt="Matheus-node" height="30" width="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-5.jpg">
+    <img align="center" alt="Matheus-node" height="30" width="40" src="https://www.strivemindz.com/images/nodejs_logo.png">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
