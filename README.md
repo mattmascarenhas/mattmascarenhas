@@ -16,6 +16,8 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
+  <img align="center" alt="Matheus-Typescript" height="30" width="40" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg">
+
 
  
 </div>
