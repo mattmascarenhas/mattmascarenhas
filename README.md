@@ -2,7 +2,7 @@
 
 <div>
 <h3>HELLO EVERYONE👋</h3>
- <p>I'm a civil engineer, however I want to become a Full Stack Developer. I'm currently doing a postgraduate degree in programming and i seek knowledge autonomously through courses and books. I seek knowledge in Javascript, especially Node.js and React JS, where i develop some personal projects in order to improve and learn more and more.</p>
+
 </div>
 
 <div align="center">
