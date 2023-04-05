@@ -1,7 +1,7 @@
 ###
 
 <div>
-<h3>HELLO EVERYONE👋</h3>
+<h3 align="center">HELLO EVERYONE👋</h3>
 
 </div>
 
