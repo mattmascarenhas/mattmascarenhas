@@ -11,12 +11,12 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg">
-    <img align="center" alt="Matheus-node" height="30" width="30" src="https://img.icons8.com/fluency/48/null/node-js.png">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-node" height="30" width="30" src="https://img.icons8.com/fluency/48/null/node-js.png">
+  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg">
   <img align="center" alt="Matheus-C#" height="35" width="45" src="https://static.cdnlogo.com/logos/c/27/c.svg">
  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
 
