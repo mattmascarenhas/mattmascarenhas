@@ -1,21 +1,30 @@
 <div align="center">
-  <h2>👋 Olá, seja bem-vindo ao meu perfil!</h2>
-  <p>Desenvolvedor focado em construir interfaces modernas e aplicações robustas.</p>
+  <h2 Matheus Mascarenhas </h2>
+  <p>Especializado em integrações entre sistemas, desenvolvimento de agentes de IA e análise de dados.</p>
 </div>
 
 ---
 
-### 💻 Tecnologias e Ferramentas
-<p>Principais tecnologias que utilizo atualmente para construir projetos e ecossistemas:</p>
+<div align="center">
+  ### 💻 Tecnologias e Ferramentas
+  <p>Principais tecnologias que utilizo atualmente para construir projetos e ecossistemas:</p>
+</div>
 
-<div align="left">
-  <!-- Ícones dinâmicos super modernos do skillicons.dev baseados na sua stack atual -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,tailwind,vite,html,css,git&theme=dark" alt="Minhas Tecnologias" />
+<div align="center">
+  <!-- Ícones gerais incluindo cs (C#) -->
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,express,postgres,tailwind,vite,html,css,git&theme=dark" alt="Minhas Tecnologias" />
+  
+  <br/><br/>
+  
+  <!-- Badge extra para o n8n pois não tem no skillicons -->
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </div>
 
 <br/>
 
-### 📊 Estatísticas do GitHub
+<div align="center">
+  ### 📊 Estatísticas do GitHub
+</div>
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattmascarenhas&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
@@ -24,9 +33,11 @@
 
 <br/>
 
-### 📇 Onde me encontrar
+<div align="center">
+  ### 📇 Onde me encontrar
+</div>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mattmascarenhas" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
